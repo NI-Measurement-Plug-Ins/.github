@@ -1,12 +1,10 @@
-## Hi there 👋
+**Welcome!!!** This is a place to enjoy open source plugins for MeasurementLink.
 
-<!--
+*Disclaimer:* These are provided as-is and are not supported by NI. See individual repository licenses for more details.
 
-**Here are some ideas to get you started:**
+## Finding Plug-Ins
+Use the [Repositories](https://github.com/orgs/NI-MeasurementLink-Plug-Ins/repositories) tab to find what you are looking for.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## For Developers
+Check out this page on how to get started with development: [Developers Go Here](developers.md)
+
