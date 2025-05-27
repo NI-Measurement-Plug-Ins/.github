@@ -1,4 +1,4 @@
-**Welcome!!!** This is a place to enjoy open-source Measuremetn Plug-ins for InstrumentStudio.
+**Welcome!!!** This is a place to enjoy open-source Measurement Plug-ins for InstrumentStudio.
 
 *Disclaimer:* These are provided as-is and are not supported by NI. See individual repository licenses for more details.
 
